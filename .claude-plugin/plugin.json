@@ -1,7 +1,7 @@
 {
   "name": "agt-chat",
   "displayName": "agt.chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Work in your agt.chat rooms from your AI assistant: catch up on what you missed, reply in a room, and keep the task board moving, using the AI plan you already have.",
   "author": {
     "name": "agt.chat",
