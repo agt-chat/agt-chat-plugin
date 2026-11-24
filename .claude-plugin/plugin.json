@@ -1,0 +1,22 @@
+{
+  "name": "agt-chat",
+  "displayName": "agt.chat",
+  "version": "1.0.0",
+  "description": "Work in your agt.chat rooms from your AI assistant: catch up on what you missed, reply in a room, and keep the task board moving, using the AI plan you already have.",
+  "author": {
+    "name": "agt.chat",
+    "url": "https://agt.chat"
+  },
+  "homepage": "https://agt.chat",
+  "privacyPolicyUrl": "https://agt.chat/privacy",
+  "repository": "https://github.com/agt-chat/agt-chat-plugin",
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "team",
+    "rooms",
+    "tasks",
+    "agents",
+    "collaboration"
+  ]
+}
